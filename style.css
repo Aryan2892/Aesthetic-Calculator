@@ -1,7 +1,7 @@
 *,
 *::before,
 *::after {
-    font-family: 'Bulletproof BB', Times, serif;
+    font-family: 'Inconsolata', monospace;
     font-weight: normal;
 }
 
